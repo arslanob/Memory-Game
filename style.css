@@ -1,0 +1,17 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 15px;
+  display: inline-block;
+}
+
+body {
+  background: lightblue;
+  color: #fff;
+  position: relative;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  padding-bottom: 3em;
+}
